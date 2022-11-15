@@ -4,7 +4,7 @@
 
 - 도커, node.js 설치 필요
 ```bash
-$ shan0515/ballot-test.git
+$ git clone https://github.com/kshan0515/ballot-test.git
 $ cd ballot-test
 $ ./run.sh
 ```
