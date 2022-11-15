@@ -1,3 +1,14 @@
+# 블록체인 CoP 연습 프로젝트
+
+## 시작하기
+
+- 도커, node.js 설치 필요
+```bash
+$ shan0515/ballot-test.git
+$ cd ballot-test
+$ ./run.sh
+```
+
 # Quorum Dev Quickstart
 
 ## Table of Contents
